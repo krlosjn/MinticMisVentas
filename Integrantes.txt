@@ -1,5 +1,7 @@
-Jhon Alex Zuñiga Samboni   Rol: Product Owner
-Martin Arturo Salas
-Carlos Junco Cárdenas
-ivan david romero v.       Rol: Administrador BD   
-Camilo Ospina Hernandez    Rol: Analista
+Development team
+
+Jhon Alex Zuñiga Samboni   	Rol: Product Owner
+Martin Arturo Salas			
+Carlos Junco Cárdenas		Rol :Desarrollador 
+ivan david romero v.       	Rol: Administrador BD   
+Camilo Ospina Hernandez    	Rol: Analista
