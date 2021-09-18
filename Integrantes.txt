@@ -1,5 +1,5 @@
 Jhon Alex Zuñiga Samboni   Rol: Product Owner
 Martin Arturo Salas
 Carlos Junco Cárdenas
-ivan david romero v.
-Camilo Ospina Hernandez
+ivan david romero v.      
+Camilo Ospina Hernandez    Rol: Analista
