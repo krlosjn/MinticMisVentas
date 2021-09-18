@@ -1,7 +1,7 @@
 Development team
 
 Jhon Alex Zuñiga Samboni   	Rol: Product Owner
-Martin Arturo Salas			
+Martin Arturo Salas			Rol: Scrum master
 Carlos Junco Cárdenas		Rol :Desarrollador 
 ivan david romero v.       	Rol: Administrador BD   
 Camilo Ospina Hernandez    	Rol: Analista
